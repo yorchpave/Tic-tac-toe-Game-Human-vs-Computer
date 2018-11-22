@@ -4,7 +4,7 @@ There are 4 files in this project:
 
   Conector.java, TicTacToe.java, TicTacToe.pl, and Architecture_Document.pdf
 
-To execute the program, Java and Swipl must be installed first. This can be done by visiting the following links:
+In order to be able to run the project, Java and Swipl must be installed first. This can be done by visiting the following links:
 
   Java: https://java.com/en/download/
   
@@ -16,7 +16,7 @@ Now you are all set! You can now open your terminal and execute:
 
   javac TicTacToe.java
 
-To compile the Project, and finally to run it:
+To compile the project, and finally to run it:
 
   java TicTacToe
 
