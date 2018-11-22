@@ -10,13 +10,13 @@ In order to be able to run the project, Java and Swipl must be installed first. 
   
   Swipl: http://www.swi-prolog.org/Download.html
 
-Once you have installed Java and Swipl, you have to open the TicTacToe.java file and edit lines 138 and 140 by replacing the paths for the Swipl and TicTacToe.pl locations respectively, so they match to your computer's path to those files.
+Once Java and Swipl are installed, open the TicTacToe.java file and edit lines 138 and 140 by replacing the paths for the Swipl and TicTacToe.pl locations respectively, so they match to your computer's path to those files.
 
-Now you are all set! You can now open your terminal and execute:
+Now you are all set! You can now open your terminal and compile the project by executing:
 
   javac TicTacToe.java
 
-To compile the project, and finally to run it:
+And finally run it:
 
   java TicTacToe
 
